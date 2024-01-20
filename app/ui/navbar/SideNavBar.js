@@ -24,7 +24,7 @@ export default function SideNavBar() {
                     <Link className="text-base hover:bg-blue-500 hover:text-white leading-6 no-underline block text-blue-500 w-full p-3" href="/about-mounting">Magnet Mounting</Link>
                 </li>
                 <li>
-                    <Link className="text-base hover:bg-blue-500 hover:text-white leading-6 no-underline block text-blue-500 w-full p-3" href="/about-faq">FAQ</Link>
+                    <Link className="text-base hover:bg-blue-500 hover:text-white leading-6 no-underline block text-blue-500 w-full p-3" href="/faq">FAQ</Link>
                 </li>
                 <li>
                     <Link className="text-base hover:bg-blue-500 hover:text-white leading-6 no-underline block text-blue-500 w-full p-3" href="/about-copyright">Copyright</Link>

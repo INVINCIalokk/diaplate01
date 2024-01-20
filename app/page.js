@@ -3,15 +3,12 @@
 import Image from "next/image";
 import Header from "./ui/header/Header";
 import SideNavBar from "./ui/navbar/SideNavBar";
-import FAndQ from "./ui/content/FAndQ";
+import FAndQ from "./faq/page";
 
 
 
 
 export default function Home() {
-
-
-
   return (
     <>
       <Header />
@@ -19,7 +16,6 @@ export default function Home() {
         <SideNavBar />
         <FAndQ />
       </div>
-
     </>
 
   )
