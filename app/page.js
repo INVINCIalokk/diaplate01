@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <>
       <Header />
-      <div className="mx-auto max-w-1440 p-14 flex">
+      <div className="mx-auto max-w-1440 p:10 lg:p-14 flex">
         <SideNavBar />
         <FAndQ />
       </div>
